@@ -25,8 +25,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.7"
-     inkscape:cx="399.71587"
-     inkscape:cy="848.62178"
+     inkscape:cx="298.70062"
+     inkscape:cy="707.20042"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -55,107 +55,105 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
-    <g
-       id="g12529"
-       transform="translate(50.089356,5)"
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect12413-58"
+       width="290"
+       height="40"
+       x="40.089355"
+       y="177.36218"
+       ry="5.7142859"
        inkscape:export-filename="/home/till/uni/ss13/Learning Theory Seminar/edu-tub-learningtheory/presentation/images/parityDNF.png"
        inkscape:export-xdpi="200"
-       inkscape:export-ydpi="200">
-      <rect
-         ry="5.7142859"
-         y="172.36218"
-         x="-10"
-         height="40"
-         width="290"
-         id="rect12413-58"
-         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.15886903;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
-      <text
-         sodipodi:linespacing="125%"
-         id="text12152"
-         y="197.91064"
-         x="-3.0560608"
-         style="font-size:30px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-         xml:space="preserve"><tspan
-           y="197.91064"
-           x="-3.0560608"
-           id="tspan12154"
-           sodipodi:role="line">x<tspan
-   id="tspan12170"
-   style="font-size:65.00091553%;baseline-shift:sub">1</tspan> ∧ x<tspan
-   id="tspan12168"
-   style="font-size:65.00091553%;baseline-shift:sub">2</tspan> ∧ x<tspan
-   id="tspan12223"
-   style="font-size:65.00091553%;baseline-shift:sub">3</tspan> ∧ ¬x<tspan
-   id="tspan12225"
-   style="font-size:65.00091553%;baseline-shift:sub">4  </tspan></tspan></text>
-    </g>
-    <g
-       id="g12556"
+       inkscape:export-ydpi="200" />
+    <text
+       xml:space="preserve"
+       style="font-size:30px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="47.033295"
+       y="202.91064"
+       id="text12152"
+       sodipodi:linespacing="125%"
        inkscape:export-filename="/home/till/uni/ss13/Learning Theory Seminar/edu-tub-learningtheory/presentation/images/parityDNF.png"
        inkscape:export-xdpi="200"
-       inkscape:export-ydpi="200">
-      <rect
-         ry="5.7142859"
-         y="342.36218"
-         x="-10"
-         height="40"
-         width="340"
-         id="rect12413-6-3"
-         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.3375814;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
-      <text
-         sodipodi:linespacing="125%"
-         id="text12227"
-         y="367.91064"
+       inkscape:export-ydpi="200"><tspan
+         sodipodi:role="line"
+         id="tspan12154"
+         x="47.033295"
+         y="202.91064">x<tspan
+   style="font-size:65.00091553%;baseline-shift:sub"
+   id="tspan12170">1</tspan> ∧ x<tspan
+   style="font-size:65.00091553%;baseline-shift:sub"
+   id="tspan12168">2</tspan> ∧ x<tspan
+   style="font-size:65.00091553%;baseline-shift:sub"
+   id="tspan12223">3</tspan> ∧ ¬x<tspan
+   style="font-size:65.00091553%;baseline-shift:sub"
+   id="tspan12225">4  </tspan></tspan></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect12413-6-3"
+       width="340"
+       height="40"
+       x="-10"
+       y="342.36218"
+       ry="5.7142859"
+       inkscape:export-filename="/home/till/uni/ss13/Learning Theory Seminar/edu-tub-learningtheory/presentation/images/parityDNF.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <text
+       xml:space="preserve"
+       style="font-size:30px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="0.46352813"
+       y="367.91064"
+       id="text12227"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/till/uni/ss13/Learning Theory Seminar/edu-tub-learningtheory/presentation/images/parityDNF.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"><tspan
+         sodipodi:role="line"
+         id="tspan12229"
          x="0.46352813"
-         style="font-size:30px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-         xml:space="preserve"><tspan
-           y="367.91064"
-           x="0.46352813"
-           id="tspan12229"
-           sodipodi:role="line">x<tspan
-   id="tspan12397"
-   style="font-size:65.00091553%;baseline-shift:sub">1</tspan> ∧ ¬x<tspan
-   id="tspan12399"
-   style="font-size:65.00091553%;baseline-shift:sub">2</tspan> ∧ ¬x<tspan
-   id="tspan12401"
-   style="font-size:65.00091553%;baseline-shift:sub">3</tspan> ∧ ¬x<tspan
-   id="tspan12403"
-   style="font-size:65.00091553%;baseline-shift:sub">4</tspan></tspan></text>
-    </g>
-    <g
-       id="g12538"
-       transform="translate(0,-5)"
+         y="367.91064">x<tspan
+   style="font-size:65.00091553%;baseline-shift:sub"
+   id="tspan12397">1</tspan> ∧ ¬x<tspan
+   style="font-size:65.00091553%;baseline-shift:sub"
+   id="tspan12399">2</tspan> ∧ ¬x<tspan
+   style="font-size:65.00091553%;baseline-shift:sub"
+   id="tspan12401">3</tspan> ∧ ¬x<tspan
+   style="font-size:65.00091553%;baseline-shift:sub"
+   id="tspan12403">4</tspan></tspan></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect12413-6"
+       width="340"
+       height="40"
+       x="-10"
+       y="232.36218"
+       ry="5.7142859"
        inkscape:export-filename="/home/till/uni/ss13/Learning Theory Seminar/edu-tub-learningtheory/presentation/images/parityDNF.png"
        inkscape:export-xdpi="200"
-       inkscape:export-ydpi="200">
-      <rect
-         ry="5.7142859"
-         y="237.36218"
-         x="-10"
-         height="40"
-         width="340"
-         id="rect12413-6"
-         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.3375814;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
-      <text
-         sodipodi:linespacing="125%"
-         id="text12227-2"
-         y="262.91064"
+       inkscape:export-ydpi="200" />
+    <text
+       xml:space="preserve"
+       style="font-size:30px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-0.69369841"
+       y="257.91064"
+       id="text12227-2"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/till/uni/ss13/Learning Theory Seminar/edu-tub-learningtheory/presentation/images/parityDNF.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"><tspan
+         sodipodi:role="line"
+         id="tspan12229-7"
          x="-0.69369841"
-         style="font-size:30px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-         xml:space="preserve"><tspan
-           y="262.91064"
-           x="-0.69369841"
-           id="tspan12229-7"
-           sodipodi:role="line">¬x<tspan
-   id="tspan12381"
-   style="font-size:65.00091553%;baseline-shift:sub">1</tspan> ∧ x<tspan
-   id="tspan12383"
-   style="font-size:65.00091553%;baseline-shift:sub">2</tspan> ∧ ¬x<tspan
-   id="tspan12385"
-   style="font-size:65.00091553%;baseline-shift:sub">3</tspan> ∧ ¬x<tspan
-   id="tspan12387"
-   style="font-size:65.00091553%;baseline-shift:sub">4</tspan></tspan></text>
-    </g>
+         y="257.91064">¬x<tspan
+   style="font-size:65.00091553%;baseline-shift:sub"
+   id="tspan12381">1</tspan> ∧ x<tspan
+   style="font-size:65.00091553%;baseline-shift:sub"
+   id="tspan12383">2</tspan> ∧ ¬x<tspan
+   style="font-size:65.00091553%;baseline-shift:sub"
+   id="tspan12385">3</tspan> ∧ ¬x<tspan
+   style="font-size:65.00091553%;baseline-shift:sub"
+   id="tspan12387">4</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-size:30px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
@@ -167,39 +165,39 @@
          id="tspan12254"
          x="153.54318"
          y="334.14371" /></text>
-    <g
-       id="g12547"
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect12413-6-9"
+       width="340"
+       height="40"
+       x="-10"
+       y="287.36218"
+       ry="5.7142859"
        inkscape:export-filename="/home/till/uni/ss13/Learning Theory Seminar/edu-tub-learningtheory/presentation/images/parityDNF.png"
        inkscape:export-xdpi="200"
-       inkscape:export-ydpi="200">
-      <rect
-         ry="5.7142859"
-         y="287.36218"
-         x="-10"
-         height="40"
-         width="340"
-         id="rect12413-6-9"
-         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.3375814;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
-      <text
-         sodipodi:linespacing="125%"
-         id="text12227-2-5"
-         y="312.91064"
+       inkscape:export-ydpi="200" />
+    <text
+       xml:space="preserve"
+       style="font-size:30px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-0.69369841"
+       y="312.91064"
+       id="text12227-2-5"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/till/uni/ss13/Learning Theory Seminar/edu-tub-learningtheory/presentation/images/parityDNF.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"><tspan
+         sodipodi:role="line"
+         id="tspan12229-7-5"
          x="-0.69369841"
-         style="font-size:30px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-         xml:space="preserve"><tspan
-           y="312.91064"
-           x="-0.69369841"
-           id="tspan12229-7-5"
-           sodipodi:role="line">¬x<tspan
-   id="tspan12389"
-   style="font-size:65.00091553%;baseline-shift:sub">1</tspan> ∧ ¬x<tspan
-   id="tspan12391"
-   style="font-size:65.00091553%;baseline-shift:sub">2</tspan> ∧ x<tspan
-   id="tspan12393"
-   style="font-size:65.00091553%;baseline-shift:sub">3</tspan> ∧ ¬x<tspan
-   id="tspan12395"
-   style="font-size:65.00091553%;baseline-shift:sub">4</tspan></tspan></text>
-    </g>
+         y="312.91064">¬x<tspan
+   style="font-size:65.00091553%;baseline-shift:sub"
+   id="tspan12389">1</tspan> ∧ ¬x<tspan
+   style="font-size:65.00091553%;baseline-shift:sub"
+   id="tspan12391">2</tspan> ∧ x<tspan
+   style="font-size:65.00091553%;baseline-shift:sub"
+   id="tspan12393">3</tspan> ∧ ¬x<tspan
+   style="font-size:65.00091553%;baseline-shift:sub"
+   id="tspan12395">4</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-size:30px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
@@ -211,141 +209,138 @@
          id="tspan12279"
          x="205.06097"
          y="417.98639" /></text>
-    <g
-       id="g12520"
-       transform="translate(50.089356,0)"
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect12413-7"
+       width="290"
+       height="40"
+       x="40.089355"
+       y="122.36218"
+       ry="5.7142859"
        inkscape:export-filename="/home/till/uni/ss13/Learning Theory Seminar/edu-tub-learningtheory/presentation/images/parityDNF.png"
        inkscape:export-xdpi="200"
-       inkscape:export-ydpi="200">
-      <rect
-         ry="5.7142859"
-         y="122.36218"
-         x="-10"
-         height="40"
-         width="290"
-         id="rect12413-7"
-         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.15886903;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
-      <text
-         sodipodi:linespacing="125%"
-         id="text12227-2-5-4"
-         y="147.91064"
-         x="0.60024691"
-         style="font-size:30px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-         xml:space="preserve"><tspan
-           y="147.91064"
-           x="0.60024691"
-           id="tspan12229-7-5-8"
-           sodipodi:role="line">x<tspan
-   id="tspan12373"
-   style="font-size:65.00091553%;baseline-shift:sub">1</tspan> ∧ x<tspan
-   id="tspan12375"
-   style="font-size:65.00091553%;baseline-shift:sub">2</tspan> ∧ ¬x<tspan
-   id="tspan12377"
-   style="font-size:65.00091553%;baseline-shift:sub">3</tspan> ∧ x<tspan
-   id="tspan12379"
-   style="font-size:65.00091553%;baseline-shift:sub">4</tspan></tspan></text>
-    </g>
-    <g
-       id="g12565"
+       inkscape:export-ydpi="200" />
+    <text
+       xml:space="preserve"
+       style="font-size:30px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="50.689602"
+       y="147.91064"
+       id="text12227-2-5-4"
+       sodipodi:linespacing="125%"
        inkscape:export-filename="/home/till/uni/ss13/Learning Theory Seminar/edu-tub-learningtheory/presentation/images/parityDNF.png"
        inkscape:export-xdpi="200"
-       inkscape:export-ydpi="200">
-      <rect
-         ry="5.7142859"
-         y="397.36218"
-         x="-10"
-         height="40"
-         width="340"
-         id="rect12413-6-2"
-         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.3375814;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
-      <text
-         sodipodi:linespacing="125%"
-         id="text12302"
-         y="422.91064"
+       inkscape:export-ydpi="200"><tspan
+         sodipodi:role="line"
+         id="tspan12229-7-5-8"
+         x="50.689602"
+         y="147.91064">x<tspan
+   style="font-size:65.00091553%;baseline-shift:sub"
+   id="tspan12373">1</tspan> ∧ x<tspan
+   style="font-size:65.00091553%;baseline-shift:sub"
+   id="tspan12375">2</tspan> ∧ ¬x<tspan
+   style="font-size:65.00091553%;baseline-shift:sub"
+   id="tspan12377">3</tspan> ∧ x<tspan
+   style="font-size:65.00091553%;baseline-shift:sub"
+   id="tspan12379">4</tspan></tspan></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect12413-6-2"
+       width="340"
+       height="40"
+       x="-10"
+       y="397.36218"
+       ry="5.7142859"
+       inkscape:export-filename="/home/till/uni/ss13/Learning Theory Seminar/edu-tub-learningtheory/presentation/images/parityDNF.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <text
+       xml:space="preserve"
+       style="font-size:30px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-0.69369841"
+       y="422.91064"
+       id="text12302"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/till/uni/ss13/Learning Theory Seminar/edu-tub-learningtheory/presentation/images/parityDNF.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"><tspan
+         sodipodi:role="line"
+         id="tspan12304"
          x="-0.69369841"
-         style="font-size:30px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-         xml:space="preserve"><tspan
-           y="422.91064"
-           x="-0.69369841"
-           id="tspan12304"
-           sodipodi:role="line">¬x<tspan
-   id="tspan12405"
-   style="font-size:65.00091553%;baseline-shift:sub">1</tspan> ∧ ¬x<tspan
-   id="tspan12407"
-   style="font-size:65.00091553%;baseline-shift:sub">2</tspan> ∧ ¬x<tspan
-   id="tspan12409"
-   style="font-size:65.00091553%;baseline-shift:sub">3</tspan> ∧ x<tspan
-   id="tspan12411"
-   style="font-size:65.00091553%;baseline-shift:sub">4</tspan></tspan></text>
-    </g>
-    <g
-       id="g12511"
-       transform="translate(50.089356,0)"
+         y="422.91064">¬x<tspan
+   style="font-size:65.00091553%;baseline-shift:sub"
+   id="tspan12405">1</tspan> ∧ ¬x<tspan
+   style="font-size:65.00091553%;baseline-shift:sub"
+   id="tspan12407">2</tspan> ∧ ¬x<tspan
+   style="font-size:65.00091553%;baseline-shift:sub"
+   id="tspan12409">3</tspan> ∧ x<tspan
+   style="font-size:65.00091553%;baseline-shift:sub"
+   id="tspan12411">4</tspan></tspan></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect12413-5"
+       width="290"
+       height="40"
+       x="40.089355"
+       y="67.362183"
+       ry="5.7142859"
        inkscape:export-filename="/home/till/uni/ss13/Learning Theory Seminar/edu-tub-learningtheory/presentation/images/parityDNF.png"
        inkscape:export-xdpi="200"
-       inkscape:export-ydpi="200">
-      <rect
-         ry="5.7142859"
-         y="67.362183"
-         x="-10"
-         height="40"
-         width="290"
-         id="rect12413-5"
-         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.15886903;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
-      <text
-         sodipodi:linespacing="125%"
-         id="text12227-2-5-4-3"
-         y="92.910645"
-         x="0.60024691"
-         style="font-size:30px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-         xml:space="preserve"><tspan
-           y="92.910645"
-           x="0.60024691"
-           id="tspan12229-7-5-8-3"
-           sodipodi:role="line">x<tspan
-   id="tspan12365"
-   style="font-size:65.00091553%;baseline-shift:sub">1</tspan> ∧ ¬x<tspan
-   id="tspan12367"
-   style="font-size:65.00091553%;baseline-shift:sub">2</tspan> ∧ x<tspan
-   id="tspan12369"
-   style="font-size:65.00091553%;baseline-shift:sub">3</tspan> ∧ x<tspan
-   id="tspan12371"
-   style="font-size:65.00091553%;baseline-shift:sub">4</tspan></tspan></text>
-    </g>
-    <g
-       id="g12502"
-       transform="translate(50.089356,0)"
+       inkscape:export-ydpi="200" />
+    <text
+       xml:space="preserve"
+       style="font-size:30px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="50.689602"
+       y="92.910645"
+       id="text12227-2-5-4-3"
+       sodipodi:linespacing="125%"
        inkscape:export-filename="/home/till/uni/ss13/Learning Theory Seminar/edu-tub-learningtheory/presentation/images/parityDNF.png"
        inkscape:export-xdpi="200"
-       inkscape:export-ydpi="200">
-      <rect
-         ry="5.7142859"
-         y="12.362183"
-         x="-10"
-         height="40"
-         width="290"
-         id="rect12413"
-         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.15886903;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
-      <text
-         sodipodi:linespacing="125%"
-         id="text12227-2-5-4-3-4"
-         y="37.910641"
-         x="-0.55697966"
-         style="font-size:30px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-         xml:space="preserve"><tspan
-           y="37.910641"
-           x="-0.55697966"
-           id="tspan12229-7-5-8-3-1"
-           sodipodi:role="line">¬x<tspan
-   id="tspan12357"
-   style="font-size:65.00091553%;baseline-shift:sub">1</tspan> ∧ x<tspan
-   id="tspan12359"
-   style="font-size:65.00091553%;baseline-shift:sub">2</tspan> ∧ x<tspan
-   id="tspan12361"
-   style="font-size:65.00091553%;baseline-shift:sub">3</tspan> ∧ x<tspan
-   id="tspan12363"
-   style="font-size:65.00091553%;baseline-shift:sub">4</tspan></tspan></text>
-    </g>
+       inkscape:export-ydpi="200"><tspan
+         sodipodi:role="line"
+         id="tspan12229-7-5-8-3"
+         x="50.689602"
+         y="92.910645">x<tspan
+   style="font-size:65.00091553%;baseline-shift:sub"
+   id="tspan12365">1</tspan> ∧ ¬x<tspan
+   style="font-size:65.00091553%;baseline-shift:sub"
+   id="tspan12367">2</tspan> ∧ x<tspan
+   style="font-size:65.00091553%;baseline-shift:sub"
+   id="tspan12369">3</tspan> ∧ x<tspan
+   style="font-size:65.00091553%;baseline-shift:sub"
+   id="tspan12371">4</tspan></tspan></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect12413"
+       width="290"
+       height="40"
+       x="40.089355"
+       y="12.362183"
+       ry="5.7142859"
+       inkscape:export-filename="/home/till/uni/ss13/Learning Theory Seminar/edu-tub-learningtheory/presentation/images/parityDNF.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <text
+       xml:space="preserve"
+       style="font-size:30px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="49.532375"
+       y="37.910641"
+       id="text12227-2-5-4-3-4"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/till/uni/ss13/Learning Theory Seminar/edu-tub-learningtheory/presentation/images/parityDNF.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"><tspan
+         sodipodi:role="line"
+         id="tspan12229-7-5-8-3-1"
+         x="49.532375"
+         y="37.910641">¬x<tspan
+   style="font-size:65.00091553%;baseline-shift:sub"
+   id="tspan12357">1</tspan> ∧ x<tspan
+   style="font-size:65.00091553%;baseline-shift:sub"
+   id="tspan12359">2</tspan> ∧ x<tspan
+   style="font-size:65.00091553%;baseline-shift:sub"
+   id="tspan12361">3</tspan> ∧ x<tspan
+   style="font-size:65.00091553%;baseline-shift:sub"
+   id="tspan12363">4</tspan></tspan></text>
     <rect
        style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
        id="rect12574"

@@ -14,7 +14,7 @@
    id="svg9786"
    version="1.1"
    inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="New document 41">
+   sodipodi:docname="deepArchitecture.svg">
   <defs
      id="defs9788">
     <marker
@@ -78,7 +78,10 @@
        sodipodi:rx="30"
        sodipodi:ry="30"
        d="m 100,142.36218 a 30,30 0 1 1 -60,0 30,30 0 1 1 60,0 z"
-       transform="matrix(0.80645161,0,0,0.80645161,33.548387,221.74752)" />
+       transform="matrix(0.80645161,0,0,0.80645161,33.548387,221.74752)"
+       inkscape:export-filename="/home/till/uni/ss13/Learning Theory Seminar/edu-tub-learningtheory/presentation/images/deepArchitecture.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
     <path
        sodipodi:type="arc"
        style="fill:#d5d5ff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
@@ -88,7 +91,10 @@
        sodipodi:rx="30"
        sodipodi:ry="30"
        d="m 100,142.36218 a 30,30 0 1 1 -60,0 30,30 0 1 1 60,0 z"
-       transform="matrix(0.80645161,0,0,0.80645161,131.04839,221.74752)" />
+       transform="matrix(0.80645161,0,0,0.80645161,131.04839,221.74752)"
+       inkscape:export-filename="/home/till/uni/ss13/Learning Theory Seminar/edu-tub-learningtheory/presentation/images/deepArchitecture.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
     <path
        sodipodi:type="arc"
        style="fill:#d5d5ff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
@@ -98,7 +104,10 @@
        sodipodi:rx="30"
        sodipodi:ry="30"
        d="m 100,142.36218 a 30,30 0 1 1 -60,0 30,30 0 1 1 60,0 z"
-       transform="matrix(0.80645161,0,0,0.80645161,228.54839,221.74752)" />
+       transform="matrix(0.80645161,0,0,0.80645161,228.54839,221.74752)"
+       inkscape:export-filename="/home/till/uni/ss13/Learning Theory Seminar/edu-tub-learningtheory/presentation/images/deepArchitecture.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
     <path
        sodipodi:type="arc"
        style="fill:#d5d5ff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
@@ -108,7 +117,10 @@
        sodipodi:rx="30"
        sodipodi:ry="30"
        d="m 100,142.36218 a 30,30 0 1 1 -60,0 30,30 0 1 1 60,0 z"
-       transform="matrix(0.80645161,0,0,0.80645161,326.04839,221.74752)" />
+       transform="matrix(0.80645161,0,0,0.80645161,326.04839,221.74752)"
+       inkscape:export-filename="/home/till/uni/ss13/Learning Theory Seminar/edu-tub-learningtheory/presentation/images/deepArchitecture.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
     <path
        sodipodi:type="arc"
        style="fill:#d5d5ff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
@@ -118,7 +130,10 @@
        sodipodi:rx="30"
        sodipodi:ry="30"
        d="m 100,142.36218 a 30,30 0 1 1 -60,0 30,30 0 1 1 60,0 z"
-       transform="matrix(0.80645161,0,0,0.80645161,423.54839,221.74752)" />
+       transform="matrix(0.80645161,0,0,0.80645161,423.54839,221.74752)"
+       inkscape:export-filename="/home/till/uni/ss13/Learning Theory Seminar/edu-tub-learningtheory/presentation/images/deepArchitecture.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
     <rect
        style="fill:#d5d5ff;fill-opacity:1;stroke:#000000;stroke-width:1.77309561;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
        id="rect9837"
@@ -126,7 +141,10 @@
        height="48.226902"
        x="140"
        y="224.13528"
-       ry="24.113451" />
+       ry="24.113451"
+       inkscape:export-filename="/home/till/uni/ss13/Learning Theory Seminar/edu-tub-learningtheory/presentation/images/deepArchitecture.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
     <rect
        style="fill:#d5d5ff;fill-opacity:1;stroke:#000000;stroke-width:1.77309561;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
        id="rect9837-3"
@@ -134,7 +152,10 @@
        height="48.226902"
        x="250"
        y="224.13528"
-       ry="24.113451" />
+       ry="24.113451"
+       inkscape:export-filename="/home/till/uni/ss13/Learning Theory Seminar/edu-tub-learningtheory/presentation/images/deepArchitecture.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
     <rect
        style="fill:#d5d5ff;fill-opacity:1;stroke:#000000;stroke-width:1.77309561;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
        id="rect9837-7"
@@ -142,7 +163,10 @@
        height="48.226902"
        x="360"
        y="224.13528"
-       ry="24.113451" />
+       ry="24.113451"
+       inkscape:export-filename="/home/till/uni/ss13/Learning Theory Seminar/edu-tub-learningtheory/presentation/images/deepArchitecture.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
     <rect
        style="fill:#d5d5ff;fill-opacity:1;stroke:#000000;stroke-width:1.77309561;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
        id="rect9837-38"
@@ -150,7 +174,10 @@
        height="48.226902"
        x="190"
        y="132.36218"
-       ry="24.113451" />
+       ry="24.113451"
+       inkscape:export-filename="/home/till/uni/ss13/Learning Theory Seminar/edu-tub-learningtheory/presentation/images/deepArchitecture.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
     <rect
        style="fill:#d5d5ff;fill-opacity:1;stroke:#000000;stroke-width:1.77309561;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
        id="rect9837-9"
@@ -158,14 +185,20 @@
        height="48.226902"
        x="321.7731"
        y="132.36218"
-       ry="24.113451" />
+       ry="24.113451"
+       inkscape:export-filename="/home/till/uni/ss13/Learning Theory Seminar/edu-tub-learningtheory/presentation/images/deepArchitecture.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
     <text
        xml:space="preserve"
        style="font-size:30px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        x="75.387375"
        y="341.75885"
        id="text9924"
-       sodipodi:linespacing="125%"><tspan
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/till/uni/ss13/Learning Theory Seminar/edu-tub-learningtheory/presentation/images/deepArchitecture.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"><tspan
          sodipodi:role="line"
          id="tspan9926"
          x="75.387375"
@@ -178,7 +211,10 @@
        x="172.96355"
        y="341.75885"
        id="text9930"
-       sodipodi:linespacing="125%"><tspan
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/till/uni/ss13/Learning Theory Seminar/edu-tub-learningtheory/presentation/images/deepArchitecture.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"><tspan
          sodipodi:role="line"
          id="tspan9932"
          x="172.96355"
@@ -191,7 +227,10 @@
        x="270.26837"
        y="341.62079"
        id="text9936"
-       sodipodi:linespacing="125%"><tspan
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/till/uni/ss13/Learning Theory Seminar/edu-tub-learningtheory/presentation/images/deepArchitecture.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"><tspan
          sodipodi:role="line"
          id="tspan9938"
          x="270.26837"
@@ -204,7 +243,10 @@
        x="367.53506"
        y="341.75885"
        id="text9942"
-       sodipodi:linespacing="125%"><tspan
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/till/uni/ss13/Learning Theory Seminar/edu-tub-learningtheory/presentation/images/deepArchitecture.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"><tspan
          sodipodi:role="line"
          id="tspan9944"
          x="367.53506"
@@ -217,7 +259,10 @@
        x="465.33978"
        y="341.62079"
        id="text9948"
-       sodipodi:linespacing="125%"><tspan
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/till/uni/ss13/Learning Theory Seminar/edu-tub-learningtheory/presentation/images/deepArchitecture.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"><tspan
          sodipodi:role="line"
          id="tspan9950"
          x="465.33978"
@@ -228,94 +273,148 @@
        style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;marker-end:url(#Arrow1Mend)"
        d="m 95,312.36218 60,-40"
        id="path9954"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/till/uni/ss13/Learning Theory Seminar/edu-tub-learningtheory/presentation/images/deepArchitecture.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
     <path
        style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;marker-end:url(#Arrow1Mend)"
        d="m 188,312.36218 -8,-39"
        id="path9956"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/till/uni/ss13/Learning Theory Seminar/edu-tub-learningtheory/presentation/images/deepArchitecture.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
     <path
        style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;marker-end:url(#Arrow1Mend)"
        d="m 188,312.36218 71,-45"
        id="path9958"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/till/uni/ss13/Learning Theory Seminar/edu-tub-learningtheory/presentation/images/deepArchitecture.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
     <path
        style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;marker-end:url(#Arrow1Mend)"
        d="m 285,312.36218 -85,-40"
        id="path9960"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/till/uni/ss13/Learning Theory Seminar/edu-tub-learningtheory/presentation/images/deepArchitecture.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
     <path
        style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;marker-end:url(#Arrow1Mend)"
        d="m 285,312.36218 5,-40"
        id="path9962"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/till/uni/ss13/Learning Theory Seminar/edu-tub-learningtheory/presentation/images/deepArchitecture.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
     <path
        style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;marker-end:url(#Arrow1Mend)"
        d="m 285,312.36218 85,-45"
        id="path9964"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/till/uni/ss13/Learning Theory Seminar/edu-tub-learningtheory/presentation/images/deepArchitecture.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
     <path
        style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;marker-end:url(#Arrow1Mend)"
        d="m 382,312.36218 -69,-41"
        id="path9966"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/till/uni/ss13/Learning Theory Seminar/edu-tub-learningtheory/presentation/images/deepArchitecture.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
     <path
        style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;marker-end:url(#Arrow1Mend)"
        d="m 383,312.36218 7,-39"
        id="path9968"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/till/uni/ss13/Learning Theory Seminar/edu-tub-learningtheory/presentation/images/deepArchitecture.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
     <path
        style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;marker-end:url(#Arrow1Mend)"
        d="m 475,312.36218 -45,-45"
        id="path9970"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/till/uni/ss13/Learning Theory Seminar/edu-tub-learningtheory/presentation/images/deepArchitecture.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
     <path
        style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;marker-end:url(#Arrow1Mend)"
        d="m 195,224.36218 20,-43"
        id="path9972"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/till/uni/ss13/Learning Theory Seminar/edu-tub-learningtheory/presentation/images/deepArchitecture.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
     <path
        style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;marker-end:url(#Arrow1Mend)"
        d="m 275,224.36218 -30,-43"
        id="path9974"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/till/uni/ss13/Learning Theory Seminar/edu-tub-learningtheory/presentation/images/deepArchitecture.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
     <path
        style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;marker-end:url(#Arrow1Mend)"
        d="m 305,224.36218 40,-43"
        id="path9976"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/till/uni/ss13/Learning Theory Seminar/edu-tub-learningtheory/presentation/images/deepArchitecture.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
     <path
        style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;marker-end:url(#Arrow1Mend)"
        d="m 375,181.36218 15,42"
        id="path9978"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/till/uni/ss13/Learning Theory Seminar/edu-tub-learningtheory/presentation/images/deepArchitecture.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
     <path
        style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:8,4;marker-end:url(#Arrow1Mend);stroke-dashoffset:0"
        d="M 215,132.36218 195,97.362183"
        id="path9980"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/till/uni/ss13/Learning Theory Seminar/edu-tub-learningtheory/presentation/images/deepArchitecture.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
     <path
        style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:8,4;marker-end:url(#Arrow1Mend);stroke-dashoffset:0"
        d="M 245,132.36218 260,97.362183"
        id="path9982"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/till/uni/ss13/Learning Theory Seminar/edu-tub-learningtheory/presentation/images/deepArchitecture.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
     <path
        style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:8,4;marker-end:url(#Arrow1Mend);stroke-dashoffset:0"
        d="M 345,132.36218 330,97.362183"
        id="path9984"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/till/uni/ss13/Learning Theory Seminar/edu-tub-learningtheory/presentation/images/deepArchitecture.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
     <path
        style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:8,4;marker-end:url(#Arrow1Mend);stroke-dashoffset:0"
        d="M 375,132.36218 390,97.362183"
        id="path9986"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/till/uni/ss13/Learning Theory Seminar/edu-tub-learningtheory/presentation/images/deepArchitecture.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
     <text
        xml:space="preserve"
        style="font-size:30px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        x="168.19223"
        y="256.64523"
        id="text9988"
-       sodipodi:linespacing="125%"><tspan
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/till/uni/ss13/Learning Theory Seminar/edu-tub-learningtheory/presentation/images/deepArchitecture.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"><tspan
          sodipodi:role="line"
          id="tspan9990"
          x="168.19223"
@@ -328,7 +427,10 @@
        x="278.2684"
        y="256.64523"
        id="text9994"
-       sodipodi:linespacing="125%"><tspan
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/till/uni/ss13/Learning Theory Seminar/edu-tub-learningtheory/presentation/images/deepArchitecture.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"><tspan
          sodipodi:role="line"
          id="tspan9996"
          x="278.2684"
@@ -341,7 +443,10 @@
        x="388.07321"
        y="256.50714"
        id="text10000"
-       sodipodi:linespacing="125%"><tspan
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/till/uni/ss13/Learning Theory Seminar/edu-tub-learningtheory/presentation/images/deepArchitecture.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"><tspan
          sodipodi:role="line"
          id="tspan10002"
          x="388.07321"
@@ -354,7 +459,10 @@
        x="213.46078"
        y="161.75639"
        id="text10006"
-       sodipodi:linespacing="125%"><tspan
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/till/uni/ss13/Learning Theory Seminar/edu-tub-learningtheory/presentation/images/deepArchitecture.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"><tspan
          sodipodi:role="line"
          id="tspan10008"
          x="213.46078"
@@ -367,7 +475,10 @@
        x="345.31006"
        y="161.75639"
        id="text10012"
-       sodipodi:linespacing="125%"><tspan
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/till/uni/ss13/Learning Theory Seminar/edu-tub-learningtheory/presentation/images/deepArchitecture.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"><tspan
          sodipodi:role="line"
          id="tspan10014"
          x="345.31006"

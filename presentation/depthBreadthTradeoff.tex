@@ -2,4 +2,38 @@
 
 \begin{frame}
 	\frametitle{Depth \& breadth tradeoff}
+	\begin{itemize}
+		\item Shallow architectures are less efficient than deep architectures (in terms of components and parameters)
+		\item Derived from formal analysis of boolean circuits \cite{Hastad87}
+		\item Space (breadth) can be exchanged for time (depth)
+	\end{itemize}
+	
+	\begin{example}
+		\begin{itemize}
+			\item Problem: Adding $2$ $N$-bit binary numbers
+			\item Intuitive solution: Propagation of carry bit $O(N)$
+			\item Shallow solution: DNF $O(2^N)$
+		\end{itemize}
+	\end{example}
+\end{frame}
+
+\begin{frame}
+	\frametitle{Example: $N$-bit boolean parity function}
+	\begin{itemize}
+		\item Problem: Calculate parity of $N$-bit value
+	\end{itemize}
+	\begin{columns}
+		\begin{column}{5cm}
+			\includegraphics[height=4cm]{images/daisyChainXOR.png}
+			\begin{itemize}
+				\item Complexity: $O(N)$
+			\end{itemize}
+		\end{column}
+		\begin{column}{5cm}
+			\includegraphics[height=4cm]{images/parityDNF.png}
+			\begin{itemize}
+				\item Complexity: $O(2^N)$
+			\end{itemize}
+		\end{column}
+	\end{columns}
 \end{frame}

@@ -74,8 +74,35 @@
 
 \begin{frame}
 	\frametitle{Type-3 architectures}
+	\begin{itemize}
+		\item Simple trainable basis functions and linear predictor
+		\item Basis functions learned through supervised learning
+		\item Non-linear function of the parameters to be learned $\rightarrow$ Non-convex optimization
+	\end{itemize}
+	\begin{example}[RBF networks]
+		\begin{displaymath}
+			f(x)= \begin{cases}
+				1& \text{if } b + \sum_{i=1}^{n}w_i \rho\left(\norm{x-c_{i}}\right) > 0\\
+				0& \text{else}
+			\end{cases}
+		\end{displaymath}
+		with $\rho\left(\norm{x-c_i}\right) = \exp{\left(-\beta_i \norm{x-c_i}^2 \right)}$, $\beta_i$, $c_i$ and $w_i$ learned
+	\end{example}
 \end{frame}
 
 \begin{frame}
 	\frametitle{Deep architectures}
+	\begin{columns}
+		\begin{column}{5.5cm}
+			\begin{itemize}
+				\item Composition of layers of adaptive non-linear components
+				\item Hierarchy of abstractions
+				\item Allows more compact representation of functions through factorization
+				\item Can trade space for time
+			\end{itemize}
+		\end{column}
+		\begin{column}{5.5cm}
+			\includegraphics[width=5.5cm]{images/deepArchitecture.png}
+		\end{column}
+	\end{columns}
 \end{frame}

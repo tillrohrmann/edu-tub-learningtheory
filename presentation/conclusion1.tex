@@ -1,19 +1,21 @@
-\section{Conclusion 1}
+\section{Conclusion}
 
 \begin{frame}
-	\frametitle{Conclusion Part 1}
+	\frametitle{Conclusion}
 	
 	\begin{columns}
-		\begin{column}{6cm}
+		\begin{column}{6.5cm}
 			\begin{itemize}
 				\item Existing learning models not sufficient to learn AI-set
 				\item Limitations: \emph{shallow architecture} and \emph{local estimators}
 				\item Shallow architecture cause inefficient representations
-				\item Local estimators don't learn non-local regularities in the data
+				\item Local estimators don't learn non-local regularities
+				\note[item]{E.g. Sinus function is highly varying and could be represented quite compactly, however not bey local estimators}
+				\item Local estimators need many examples to learn highly varying function
 				\item Solution: Deep architectures			
 			\end{itemize}
 		\end{column}
-		\begin{column}{5cm}
+		\begin{column}{4.5cm}
 			\includegraphics[width=4.5cm]{images/bulb.jpg}
 		\end{column}
 	\end{columns}

@@ -39,35 +39,5 @@
 \end{frame}
 
 \begin{frame}
-	\frametitle{Example: Motif detection}
-	\begin{itemize}
-		\item Problem: Detection of $2$ motifs of size $S$ at $D$ different positions in an image of size $N$
-	\end{itemize}
-	\begin{figure}
-		\centering
-		\includegraphics[width=11cm]{images/localTemplate.png}
-	\end{figure}
+	\frametitle{Implications}
 \end{frame}
-
-\begin{frame}
-	\frametitle{Example: Motif detection contd.}
-	\begin{itemize}
-		\item Spatially local detector: Only a subset of pixels is considered
-	\end{itemize}
-	\begin{figure}
-		\centering
-		\includegraphics[width=11cm]{images/spatiallyLocalTemplate.png}
-	\end{figure}
-\end{frame}
-
-\begin{frame}
-	\frametitle{Example: Motif detection contd.}
-	\begin{itemize}
-		\item Using local templates requires $D^2$ different templates and $N\cdot D^2$ computing operations
-		\item Using a \emph{spatially local} feature detector requires $2\cdot S \cdot D$ computing operations
-		\item Kernel machines cannot exploit compositional structure
-		\item Even worse if background contains random clutter
-	\end{itemize}	
-\end{frame}
-
-

@@ -1,0 +1,499 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg7424"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="kernelMachine.svg">
+  <defs
+     id="defs7426">
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4403"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker7343"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path7345"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker7347"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path7349"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker7351"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path7353"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker7355"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path7357"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker7359"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path7361"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker7363"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path7365"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker7367"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path7369"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker7371"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path7373"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="399.06305"
+     inkscape:cy="760.44687"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:window-width="1383"
+     inkscape:window-height="876"
+     inkscape:window-x="57"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid7571" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7429">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-size:45px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="204.81947"
+       y="714.09564"
+       id="text6057"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/till/uni/ss13/Learning Theory Seminar/edu-tub-learningtheory/presentation/images/kernelMachine.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"><tspan
+         sodipodi:role="line"
+         id="tspan6059"
+         x="204.81947"
+         y="714.09564" /></text>
+    <g
+       id="g7669"
+       transform="translate(0,6.318081)"
+       inkscape:export-filename="/home/till/uni/ss13/Learning Theory Seminar/edu-tub-learningtheory/presentation/images/kernelMachine.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200">
+      <path
+         inkscape:export-ydpi="200"
+         inkscape:export-xdpi="200"
+         inkscape:export-filename="/home/till/uni/ss13/Learning Theory Seminar/edu-tub-learningtheory/presentation/images/perceptron.png"
+         transform="matrix(0.81300813,0,0,0.81300813,3.6991886,168.49052)"
+         d="m 160,152.36218 c 0,33.13709 -26.86292,60 -60,60 -33.137085,0 -60,-26.86291 -60,-60 0,-33.13708 26.862915,-59.999997 60,-59.999997 33.13708,0 60,26.862917 60,59.999997 z"
+         sodipodi:ry="60"
+         sodipodi:rx="60"
+         sodipodi:cy="152.36218"
+         sodipodi:cx="100"
+         id="path5988-0"
+         style="fill:#d7d7f4;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         sodipodi:type="arc" />
+      <text
+         inkscape:export-ydpi="200"
+         inkscape:export-xdpi="200"
+         inkscape:export-filename="/home/till/uni/ss13/Learning Theory Seminar/edu-tub-learningtheory/presentation/images/perceptron.png"
+         sodipodi:linespacing="125%"
+         id="text6051"
+         y="304.6669"
+         x="71.772461"
+         style="font-size:30px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           style="font-size:45px"
+           y="304.6669"
+           x="71.772461"
+           id="tspan6053"
+           sodipodi:role="line">x<tspan
+   id="tspan6065"
+   style="font-size:65.00091553%;baseline-shift:sub" /></tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:30px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="127.03773"
+       y="461.55753"
+       id="text6073"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/till/uni/ss13/Learning Theory Seminar/edu-tub-learningtheory/presentation/images/kernelMachine.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"><tspan
+         sodipodi:role="line"
+         id="tspan6075"
+         x="127.03773"
+         y="461.55753" /></text>
+    <g
+       id="g7693"
+       transform="translate(50.000031,5)"
+       inkscape:export-filename="/home/till/uni/ss13/Learning Theory Seminar/edu-tub-learningtheory/presentation/images/kernelMachine.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200">
+      <rect
+         ry="22.673988"
+         y="252.36218"
+         x="449.99997"
+         height="82.636284"
+         width="139.99998"
+         id="rect6126-6"
+         style="fill:#d7d7f4;fill-opacity:1;stroke:#000000;stroke-width:3.07662272;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text6122"
+         y="305.56754"
+         x="464.0466"
+         style="font-size:30px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           style="font-size:45px"
+           y="305.56754"
+           x="464.0466"
+           id="tspan6124"
+           sodipodi:role="line">Σ|&gt;b</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:45px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="420"
+       y="182.36218"
+       id="text7074"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/till/uni/ss13/Learning Theory Seminar/edu-tub-learningtheory/presentation/images/kernelMachine.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"><tspan
+         sodipodi:role="line"
+         id="tspan7076"
+         x="420"
+         y="182.36218"
+         style="font-size:40px">W<tspan
+   style="font-size:65.00091553%;baseline-shift:sub"
+   id="tspan7080">1</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="395"
+       y="282.36218"
+       id="text7082"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/till/uni/ss13/Learning Theory Seminar/edu-tub-learningtheory/presentation/images/kernelMachine.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"><tspan
+         sodipodi:role="line"
+         id="tspan7084"
+         x="395"
+         y="282.36218">W<tspan
+   style="font-size:65.00091553%;baseline-shift:sub"
+   id="tspan7088">2</tspan></tspan></text>
+    <path
+       sodipodi:type="arc"
+       style="fill:#d7d7f4;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path5988-15"
+       sodipodi:cx="100"
+       sodipodi:cy="152.36218"
+       sodipodi:rx="60"
+       sodipodi:ry="60"
+       d="m 160,152.36218 a 60,60 0 1 1 -120,0 60,60 0 1 1 120,0 z"
+       transform="matrix(0.81300813,0,0,0.81300813,643.69922,174.80863)"
+       inkscape:export-filename="/home/till/uni/ss13/Learning Theory Seminar/edu-tub-learningtheory/presentation/images/kernelMachine.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow1Mend)"
+       d="m 640.00003,297.87867 35,1.21952"
+       id="path7124"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/till/uni/ss13/Learning Theory Seminar/edu-tub-learningtheory/presentation/images/kernelMachine.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-size:45px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="711.68457"
+       y="306.30484"
+       id="text7308"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/till/uni/ss13/Learning Theory Seminar/edu-tub-learningtheory/presentation/images/kernelMachine.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"><tspan
+         sodipodi:role="line"
+         id="tspan7310"
+         x="711.68457"
+         y="306.30484">y</tspan></text>
+    <g
+       id="g8719"
+       transform="translate(0,-20.00005)">
+      <g
+         transform="translate(20,-59.99995)"
+         id="g7675">
+        <rect
+           style="fill:#d7d7f4;fill-opacity:1;stroke:#000000;stroke-width:3.18460703;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           id="rect6126"
+           width="149.99998"
+           height="82.636284"
+           x="190"
+           y="142.36218"
+           ry="22.673988" />
+        <text
+           xml:space="preserve"
+           style="font-size:30px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+           x="195.43883"
+           y="196.25308"
+           id="text6092"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan6094"
+             x="195.43883"
+             y="196.25308"
+             style="font-size:45px">K(·,x<tspan
+   style="font-size:65.00091553%;baseline-shift:sub"
+   id="tspan7587">1</tspan>)</tspan></text>
+      </g>
+      <g
+         transform="translate(20,99.999989)"
+         id="g7687">
+        <rect
+           style="fill:#d7d7f4;fill-opacity:1;stroke:#000000;stroke-width:3.18460703;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           id="rect6126-2"
+           width="149.99998"
+           height="82.636284"
+           x="190"
+           y="372.36218"
+           ry="22.673988" />
+        <text
+           xml:space="preserve"
+           style="font-size:30px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+           x="195.43883"
+           y="426.04599"
+           id="text6092-4"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan6094-0"
+             x="195.43883"
+             y="426.04599"
+             style="font-size:45px">K(·,x<tspan
+   style="font-size:65.00091553%;baseline-shift:sub"
+   id="tspan7641">3</tspan>)</tspan></text>
+      </g>
+      <g
+         transform="translate(20,15.00005)"
+         id="g7681">
+        <rect
+           style="fill:#d7d7f4;fill-opacity:1;stroke:#000000;stroke-width:3.18460703;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           id="rect6126-20"
+           width="149.99998"
+           height="82.636284"
+           x="190"
+           y="262.36218"
+           ry="22.673988" />
+        <text
+           xml:space="preserve"
+           style="font-size:30px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+           x="195.43883"
+           y="316.25308"
+           id="text6092-6"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan6094-9"
+             x="195.43883"
+             y="316.25308"
+             style="font-size:45px">K(·,x<tspan
+   style="font-size:65.00091553%;baseline-shift:sub"
+   id="tspan7639">2</tspan>)</tspan></text>
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:45px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="420"
+       y="442.36218"
+       id="text7074-9"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/till/uni/ss13/Learning Theory Seminar/edu-tub-learningtheory/presentation/images/kernelMachine.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"><tspan
+         sodipodi:role="line"
+         id="tspan7076-8"
+         x="420"
+         y="442.36218"
+         style="font-size:40px">W<tspan
+   style="font-size:65.00091553%;baseline-shift:sub"
+   id="tspan7667">3</tspan></tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#marker7371)"
+       d="m 135,299.36218 75,-167"
+       id="path7715"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/till/uni/ss13/Learning Theory Seminar/edu-tub-learningtheory/presentation/images/kernelMachine.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;marker-end:url(#marker7371)"
+       d="m 135,299.36218 73,0"
+       id="path7717"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/till/uni/ss13/Learning Theory Seminar/edu-tub-learningtheory/presentation/images/kernelMachine.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#marker7371)"
+       d="m 135,299.36218 75,163"
+       id="path7719"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/till/uni/ss13/Learning Theory Seminar/edu-tub-learningtheory/presentation/images/kernelMachine.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#marker7371)"
+       d="m 360,132.36218 145,130"
+       id="path8481"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/till/uni/ss13/Learning Theory Seminar/edu-tub-learningtheory/presentation/images/kernelMachine.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#marker7371)"
+       d="m 362,297.36218 138,0"
+       id="path8483"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/till/uni/ss13/Learning Theory Seminar/edu-tub-learningtheory/presentation/images/kernelMachine.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#marker7371)"
+       d="m 360,462.36218 145,-125"
+       id="path8485"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/till/uni/ss13/Learning Theory Seminar/edu-tub-learningtheory/presentation/images/kernelMachine.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+  </g>
+</svg>

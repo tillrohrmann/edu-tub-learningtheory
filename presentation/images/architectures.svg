@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg3798"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="architectures.svg">
+  <defs
+     id="defs3800">
+    <marker
+       inkscape:stockid="Arrow1Mstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Mstart"
+       style="overflow:visible">
+      <path
+         id="path4400"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt"
+         transform="scale(0.4) translate(10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Mend"
+       style="overflow:visible;">
+      <path
+         id="path4403"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;"
+         transform="scale(0.4) rotate(180) translate(10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Send"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Send"
+       style="overflow:visible;">
+      <path
+         id="path4409"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;"
+         transform="scale(0.2) rotate(180) translate(6,0)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="434.2718"
+     inkscape:cy="895.48959"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:window-width="1383"
+     inkscape:window-height="876"
+     inkscape:window-x="57"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3806" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata3803">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g5354"
+       transform="translate(65.000001,19.999989)"
+       inkscape:export-filename="/home/till/uni/ss13/Learning Theory Seminar/edu-tub-learningtheory/presentation/images/architectures.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200">
+      <path
+         transform="matrix(0.82608698,0,0,1.6666667,-210.43479,-138.24145)"
+         d="m 400,222.36218 c 0,16.56855 -51.48725,30 -115,30 -63.51275,0 -115,-13.43145 -115,-30 0,-16.56854 51.48725,-30 115,-30 63.51275,0 115,13.43146 115,30 z"
+         sodipodi:ry="30"
+         sodipodi:rx="115"
+         sodipodi:cy="222.36218"
+         sodipodi:cx="285"
+         id="path3808-9"
+         style="fill:#d7d7f4;fill-opacity:1;stroke:#000000;stroke-width:1.58401108;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         sodipodi:type="arc" />
+      <g
+         transform="translate(-5.0004909,0)"
+         id="g5349">
+        <text
+           xml:space="preserve"
+           style="font-size:30px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+           x="30.004885"
+           y="225.07214"
+           id="text4354"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan4356"
+             x="30.004885"
+             y="225.07214"
+             style="font-size:20px;text-align:center;text-anchor:middle">Type-1</tspan><tspan
+             sodipodi:role="line"
+             x="30.004885"
+             y="248.07864"
+             id="tspan4358"
+             style="font-size:18px;text-align:center;text-anchor:middle">(e.g. Perceptron)</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g5361"
+       transform="translate(25.059126,20.000008)"
+       inkscape:export-filename="/home/till/uni/ss13/Learning Theory Seminar/edu-tub-learningtheory/presentation/images/architectures.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200">
+      <path
+         transform="matrix(1.0434782,0,0,1.6666666,12.608701,-138.24145)"
+         d="m 400,222.36218 c 0,16.56855 -51.48725,30 -115,30 -63.51275,0 -115,-13.43145 -115,-30 0,-16.56854 51.48725,-30 115,-30 63.51275,0 115,13.43146 115,30 z"
+         sodipodi:ry="30"
+         sodipodi:rx="115"
+         sodipodi:cy="222.36218"
+         sodipodi:cx="285"
+         id="path3808-2"
+         style="fill:#d7d7f4;fill-opacity:1;stroke:#000000;stroke-width:1.40407574;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         sodipodi:type="arc" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text4360"
+         y="226.40872"
+         x="310.00439"
+         style="font-size:30px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           style="font-size:20px;text-align:center;text-anchor:middle"
+           y="226.40872"
+           x="310.00439"
+           id="tspan4362"
+           sodipodi:role="line">Type-2</tspan><tspan
+           style="font-size:18px;text-align:center;text-anchor:middle"
+           id="tspan4364"
+           y="249.41522"
+           x="310.00439"
+           sodipodi:role="line">(e.g. Kernel machine)</tspan></text>
+    </g>
+    <g
+       id="g5367"
+       transform="translate(-54.999994,20.000008)"
+       inkscape:export-filename="/home/till/uni/ss13/Learning Theory Seminar/edu-tub-learningtheory/presentation/images/architectures.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200">
+      <path
+         transform="matrix(1.0869565,0,0,1.6666666,355.2174,-138.24145)"
+         d="m 400,222.36218 c 0,16.56855 -51.48725,30 -115,30 -63.51275,0 -115,-13.43145 -115,-30 0,-16.56854 51.48725,-30 115,-30 63.51275,0 115,13.43146 115,30 z"
+         sodipodi:ry="30"
+         sodipodi:rx="115"
+         sodipodi:cy="222.36218"
+         sodipodi:cx="285"
+         id="path3808-0"
+         style="fill:#d7d7f4;fill-opacity:1;stroke:#000000;stroke-width:1.20525169;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         sodipodi:type="arc" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text4366"
+         y="215.15872"
+         x="664.22656"
+         style="font-size:30px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           style="font-size:20px;text-align:center;text-anchor:middle"
+           y="215.15872"
+           x="664.22656"
+           id="tspan4368"
+           sodipodi:role="line">Type-3</tspan><tspan
+           style="font-size:18px;text-align:center;text-anchor:middle"
+           id="tspan4370"
+           y="238.16522"
+           x="667.0918"
+           sodipodi:role="line">(e.g. Neural net with </tspan><tspan
+           style="font-size:18px;text-align:center;text-anchor:middle"
+           y="260.66522"
+           x="664.22656"
+           sodipodi:role="line"
+           id="tspan5334">hidden layer)</tspan></text>
+    </g>
+    <g
+       id="g5026"
+       transform="translate(44.940896,-20)"
+       inkscape:export-filename="/home/till/uni/ss13/Learning Theory Seminar/edu-tub-learningtheory/presentation/images/architectures.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200">
+      <path
+         transform="matrix(1.3478261,0,0,1.5000002,-64.130439,-286.18113)"
+         d="m 400,222.36218 c 0,16.56855 -51.48725,30 -115,30 -63.51275,0 -115,-13.43145 -115,-30 0,-16.56854 51.48725,-30 115,-30 63.51275,0 115,13.43146 115,30 z"
+         sodipodi:ry="30"
+         sodipodi:rx="115"
+         sodipodi:cy="222.36218"
+         sodipodi:cx="285"
+         id="path3808"
+         style="fill:#afafe9;fill-opacity:1;stroke:#000000;stroke-width:2.1098845;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         sodipodi:type="arc" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text4318"
+         y="56.309452"
+         x="190.61328"
+         style="font-size:30px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           style="font-size:24px"
+           y="56.309452"
+           x="190.61328"
+           id="tspan4320"
+           sodipodi:role="line">Shallow architectures</tspan></text>
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;marker-end:url(#Arrow1Mend)"
+       d="m 340,72.362183 0,129.999997"
+       id="path5416"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/till/uni/ss13/Learning Theory Seminar/edu-tub-learningtheory/presentation/images/architectures.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;marker-end:none;marker-start:url(#Arrow1Mstart)"
+       d="M 570,202.36218 460,62.362183"
+       id="path5418"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/till/uni/ss13/Learning Theory Seminar/edu-tub-learningtheory/presentation/images/architectures.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;marker-end:none;marker-start:url(#Arrow1Mstart)"
+       d="M 150,212.36218 270,62.362183"
+       id="path5420"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/till/uni/ss13/Learning Theory Seminar/edu-tub-learningtheory/presentation/images/architectures.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+  </g>
+</svg>

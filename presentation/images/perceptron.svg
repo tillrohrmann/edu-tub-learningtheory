@@ -1,0 +1,435 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg5978"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="perceptron.svg">
+  <defs
+     id="defs5980">
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Mend"
+       style="overflow:visible;">
+      <path
+         id="path4403"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;"
+         transform="scale(0.4) rotate(180) translate(10,0)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="317.88214"
+     inkscape:cy="829.80416"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:window-width="1383"
+     inkscape:window-height="876"
+     inkscape:window-x="57"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid5986" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5983">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-size:45px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="138.3909"
+       y="378.59042"
+       id="text6057"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/till/uni/ss13/Learning Theory Seminar/edu-tub-learningtheory/presentation/images/perceptron.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"><tspan
+         sodipodi:role="line"
+         id="tspan6059"
+         x="138.3909"
+         y="378.59042" /></text>
+    <g
+       id="g8776"
+       inkscape:export-filename="/home/till/uni/ss13/Learning Theory Seminar/edu-tub-learningtheory/presentation/images/perceptron.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200">
+      <g
+         transform="translate(0,-2.8128256e-5)"
+         id="g8736">
+        <path
+           sodipodi:type="arc"
+           style="fill:#d7d7f4;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           id="path5988"
+           sodipodi:cx="100"
+           sodipodi:cy="152.36218"
+           sodipodi:rx="60"
+           sodipodi:ry="60"
+           d="m 160,152.36218 c 0,33.13709 -26.86292,60 -60,60 -33.137085,0 -60,-26.86291 -60,-60 0,-33.13708 26.862915,-59.999997 60,-59.999997 33.13708,0 60,26.862917 60,59.999997 z"
+           transform="matrix(0.81300813,0,0,0.81300813,68.699187,-120.29)"
+           inkscape:export-filename="/home/till/uni/ss13/Learning Theory Seminar/edu-tub-learningtheory/presentation/images/perceptron.png"
+           inkscape:export-xdpi="200"
+           inkscape:export-ydpi="200" />
+        <text
+           xml:space="preserve"
+           style="font-size:45px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+           x="130"
+           y="14.801205"
+           id="text6045"
+           sodipodi:linespacing="125%"
+           inkscape:export-filename="/home/till/uni/ss13/Learning Theory Seminar/edu-tub-learningtheory/presentation/images/perceptron.png"
+           inkscape:export-xdpi="200"
+           inkscape:export-ydpi="200"><tspan
+             sodipodi:role="line"
+             id="tspan6047"
+             x="130"
+             y="14.801205">x<tspan
+   style="font-size:65.00091553%;baseline-shift:sub"
+   id="tspan6063">1</tspan></tspan></text>
+      </g>
+      <g
+         transform="translate(0,2.4389649)"
+         id="g8742">
+        <path
+           sodipodi:type="arc"
+           style="fill:#d7d7f4;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           id="path5988-0"
+           sodipodi:cx="100"
+           sodipodi:cy="152.36218"
+           sodipodi:rx="60"
+           sodipodi:ry="60"
+           d="m 160,152.36218 c 0,33.13709 -26.86292,60 -60,60 -33.137085,0 -60,-26.86291 -60,-60 0,-33.13708 26.862915,-59.999997 60,-59.999997 33.13708,0 60,26.862917 60,59.999997 z"
+           transform="matrix(0.81300813,0,0,0.81300813,68.699187,87.271007)"
+           inkscape:export-filename="/home/till/uni/ss13/Learning Theory Seminar/edu-tub-learningtheory/presentation/images/perceptron.png"
+           inkscape:export-xdpi="200"
+           inkscape:export-ydpi="200" />
+        <text
+           xml:space="preserve"
+           style="font-size:30px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+           x="130"
+           y="222.36218"
+           id="text6051"
+           sodipodi:linespacing="125%"
+           inkscape:export-filename="/home/till/uni/ss13/Learning Theory Seminar/edu-tub-learningtheory/presentation/images/perceptron.png"
+           inkscape:export-xdpi="200"
+           inkscape:export-ydpi="200"><tspan
+             sodipodi:role="line"
+             id="tspan6053"
+             x="130"
+             y="222.36218"
+             style="font-size:45px">x<tspan
+   style="font-size:65.00091553%;baseline-shift:sub"
+   id="tspan6065">2</tspan></tspan></text>
+      </g>
+      <g
+         transform="translate(0,-2.8128256e-5)"
+         id="g8748">
+        <path
+           sodipodi:type="arc"
+           style="fill:#d7d7f4;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           id="path5988-1"
+           sodipodi:cx="100"
+           sodipodi:cy="152.36218"
+           sodipodi:rx="60"
+           sodipodi:ry="60"
+           d="m 160,152.36218 c 0,33.13709 -26.86292,60 -60,60 -33.137085,0 -60,-26.86291 -60,-60 0,-33.13708 26.862915,-59.999997 60,-59.999997 33.13708,0 60,26.862917 60,59.999997 z"
+           transform="matrix(0.81300813,0,0,0.81300813,68.699187,299.71)"
+           inkscape:export-filename="/home/till/uni/ss13/Learning Theory Seminar/edu-tub-learningtheory/presentation/images/perceptron.png"
+           inkscape:export-xdpi="200"
+           inkscape:export-ydpi="200" />
+        <text
+           xml:space="preserve"
+           style="font-size:30px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+           x="130"
+           y="434.80121"
+           id="text6067"
+           sodipodi:linespacing="125%"
+           inkscape:export-filename="/home/till/uni/ss13/Learning Theory Seminar/edu-tub-learningtheory/presentation/images/perceptron.png"
+           inkscape:export-xdpi="200"
+           inkscape:export-ydpi="200"><tspan
+             sodipodi:role="line"
+             id="tspan6069"
+             x="130"
+             y="434.80121"
+             style="font-size:45px">x<tspan
+   style="font-size:65.00091553%;baseline-shift:sub"
+   id="tspan6071">3</tspan></tspan></text>
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:30px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="60.609154"
+       y="126.0523"
+       id="text6073"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/till/uni/ss13/Learning Theory Seminar/edu-tub-learningtheory/presentation/images/perceptron.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"><tspan
+         sodipodi:role="line"
+         id="tspan6075"
+         x="60.609154"
+         y="126.0523" /></text>
+    <g
+       id="g8764"
+       transform="translate(0,4.9013407)"
+       inkscape:export-filename="/home/till/uni/ss13/Learning Theory Seminar/edu-tub-learningtheory/presentation/images/perceptron.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200">
+      <g
+         transform="translate(-2.6740112,-27.326012)"
+         id="g6155">
+        <rect
+           style="fill:#d7d7f4;fill-opacity:1;stroke:#000000;stroke-width:2.36371779;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           id="rect6126"
+           width="82.636284"
+           height="82.636284"
+           x="300.03772"
+           y="79.688194"
+           ry="22.673988" />
+        <text
+           xml:space="preserve"
+           style="font-size:30px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+           x="317.31656"
+           y="128.71873"
+           id="text6092"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan6094"
+             x="317.31656"
+             y="128.71873"
+             style="font-size:45px">φ<tspan
+   style="font-size:65.00091553%;baseline-shift:sub"
+   id="tspan6096">1</tspan></tspan></text>
+      </g>
+      <g
+         transform="translate(-2.6362915,20)"
+         id="g6161">
+        <rect
+           style="fill:#d7d7f4;fill-opacity:1;stroke:#000000;stroke-width:2.36371779;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           id="rect6126-2"
+           width="82.636284"
+           height="82.636284"
+           x="300"
+           y="262.36218"
+           ry="22.673988" />
+        <text
+           xml:space="preserve"
+           style="font-size:30px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+           x="317.3931"
+           y="311.39273"
+           id="text6092-4"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan6094-0"
+             x="317.3931"
+             y="311.39273"
+             style="font-size:45px">φ<tspan
+   style="font-size:65.00091553%;baseline-shift:sub"
+   id="tspan6096-9">2</tspan></tspan></text>
+      </g>
+    </g>
+    <g
+       id="g6167"
+       transform="translate(-1.8715858e-5,-0.09865951)"
+       inkscape:export-filename="/home/till/uni/ss13/Learning Theory Seminar/edu-tub-learningtheory/presentation/images/perceptron.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200">
+      <rect
+         ry="22.673988"
+         y="172.36218"
+         x="490"
+         height="82.636284"
+         width="139.99998"
+         id="rect6126-6"
+         style="fill:#d7d7f4;fill-opacity:1;stroke:#000000;stroke-width:3.07662272;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text6122"
+         y="225.56754"
+         x="504.04663"
+         style="font-size:30px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           style="font-size:45px"
+           y="225.56754"
+           x="504.04663"
+           id="tspan6124"
+           sodipodi:role="line">Σ|&gt;b</tspan></text>
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow1Mend)"
+       d="m 200,12.362183 100,55"
+       id="path6184"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/till/uni/ss13/Learning Theory Seminar/edu-tub-learningtheory/presentation/images/perceptron.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow1Mend)"
+       d="M 200,12.362183 300,292.36218"
+       id="path6186"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/till/uni/ss13/Learning Theory Seminar/edu-tub-learningtheory/presentation/images/perceptron.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow1Mend)"
+       d="M 200,212.36218 295,97.362183"
+       id="path6188"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/till/uni/ss13/Learning Theory Seminar/edu-tub-learningtheory/presentation/images/perceptron.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow1Mend)"
+       d="m 200,212.36218 95,115"
+       id="path6190"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/till/uni/ss13/Learning Theory Seminar/edu-tub-learningtheory/presentation/images/perceptron.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow1Mend)"
+       d="m 200,422.36218 100,-290"
+       id="path6192"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/till/uni/ss13/Learning Theory Seminar/edu-tub-learningtheory/presentation/images/perceptron.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow1Mend)"
+       d="m 200,422.36218 100,-60"
+       id="path6194"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/till/uni/ss13/Learning Theory Seminar/edu-tub-learningtheory/presentation/images/perceptron.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow1Mend)"
+       d="M 380,97.362183 490,207.36218"
+       id="path6888"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/till/uni/ss13/Learning Theory Seminar/edu-tub-learningtheory/presentation/images/perceptron.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow1Mend)"
+       d="m 380,327.36218 110,-115"
+       id="path6890"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/till/uni/ss13/Learning Theory Seminar/edu-tub-learningtheory/presentation/images/perceptron.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-size:45px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="425"
+       y="147.36218"
+       id="text7074"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/till/uni/ss13/Learning Theory Seminar/edu-tub-learningtheory/presentation/images/perceptron.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"><tspan
+         sodipodi:role="line"
+         id="tspan7076"
+         x="425"
+         y="147.36218"
+         style="font-size:40px">W<tspan
+   style="font-size:65.00091553%;baseline-shift:sub"
+   id="tspan7080">1</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="425"
+       y="312.36218"
+       id="text7082"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/till/uni/ss13/Learning Theory Seminar/edu-tub-learningtheory/presentation/images/perceptron.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"><tspan
+         sodipodi:role="line"
+         id="tspan7084"
+         x="425"
+         y="312.36218">W<tspan
+   style="font-size:65.00091553%;baseline-shift:sub"
+   id="tspan7088">2</tspan></tspan></text>
+    <path
+       sodipodi:type="arc"
+       style="fill:#d7d7f4;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path5988-15"
+       sodipodi:cx="100"
+       sodipodi:cy="152.36218"
+       sodipodi:rx="60"
+       sodipodi:ry="60"
+       d="m 160,152.36218 a 60,60 0 1 1 -120,0 60,60 0 1 1 120,0 z"
+       transform="matrix(0.81300813,0,0,0.81300813,628.69919,87.270977)"
+       inkscape:export-filename="/home/till/uni/ss13/Learning Theory Seminar/edu-tub-learningtheory/presentation/images/perceptron.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow1Mend)"
+       d="m 630,212.36218 30,0"
+       id="path7124"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/till/uni/ss13/Learning Theory Seminar/edu-tub-learningtheory/presentation/images/perceptron.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-size:45px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="696.68457"
+       y="218.76718"
+       id="text7308"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/till/uni/ss13/Learning Theory Seminar/edu-tub-learningtheory/presentation/images/perceptron.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"><tspan
+         sodipodi:role="line"
+         id="tspan7310"
+         x="696.68457"
+         y="218.76718">y</tspan></text>
+  </g>
+</svg>
